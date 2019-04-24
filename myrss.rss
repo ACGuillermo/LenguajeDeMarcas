@@ -2,7 +2,37 @@
 <rss version="2.0">
 
 	<channel>
-		<title></title>
+		<title>RSS PAC UF5</title>
 		<link></link>
-		<description>Rss PAC DESARROLLO UF5 Guillermo Aguilar</description>
+		<description>RSS creada para la PAC de desarrollo UF5. Guillermo Aguilar</description>
+
+		<item>
+ 			<title>Why you need to be at GitHub Satellite in a month</title>
+ 			<link>https://github.blog/2019-04-23-why-you-need-to-be-at-github-satellite-in-a-month/</link>
+ 			<description>See why past attendees are returning to Satellite this year in Berlin on May 23—and how you can join them.</description>
+ 		</item>
+
+ 		 <item>
+ 			<title>Game On—what was it like to make games during the 80s?</title>
+ 			<link>https://github.blog/2019-04-23-game-on-what-was-it-like-to-make-games-during-the-80s/</link>
+ 			<description>Join us for a chat with Kevin Savetz and Steve Meretzky about developing video games for Infocom in the 1980s.</description>
+ 		</item>
+
+ 		<item>
+ 			<title>Applications for GitHub Satellite scholarships tickets are now open</title>
+ 			<link>https://github.blog/2019-04-22-applications-for-github-satellite-scholarships-tickets-are-now-open/</link>
+ 			<description>Apply for a free ticket to GitHub Satellite as part of our Scholarship Program.</description>
+ 		</item>
+
+ 		<item>
+ 			<title>Join us at Maintainerati Berlin</title>
+ 			<link>https://github.blog/2019-04-17-join-us-at-maintainerati-berlin/</link>
+ 			<description>Maintainers: Join us at Maintainerati Berlin on May 24 to gather, present, and discuss the challenges of being an open source maintainer.</description>
+ 		</item>
+
+ 		<item>
+ 			<title>GitHub shares lessons learned from EU Copyright Directive at US DMCA roundtable</title>
+ 			<link>https://github.blog/2019-04-17-github-shares-lessons-learned-from-eu-copyright-directive-at-us-dmca-roundtable/</link>
+ 			<description>Find out what we shared at the US Copyright Office based on our experience with the EU Copyright Directive.</description>
+ 		</item>
 	</channel>
